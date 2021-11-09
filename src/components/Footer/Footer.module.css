@@ -6,3 +6,12 @@
   text-align: center;
 }
 
+/** typography */
+
+footer a {
+  color: hsl(0deg, 0%, 100%);
+}
+
+footer a:hover {
+  color: hsl(0deg, 0%, 80%);
+}
