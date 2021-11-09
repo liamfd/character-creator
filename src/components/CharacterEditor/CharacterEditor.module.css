@@ -24,7 +24,18 @@
 }
 
 .characterWrapper {
+  position: fixed;
+  min-height: 500px;
+  right: 0;
+  top: 128px;
+  /* take up the space left by the header */
+  width: 35%;
 }
 
 .controlColumn {
+  width: 50%;
+}
+
+.header {
+  width: 65%;
 }
